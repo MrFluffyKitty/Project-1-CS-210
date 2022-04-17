@@ -1,0 +1,8 @@
+﻿  Constructor.cpp
+  Source.cpp
+E:\repos\Project One - Tristin Watson\Project One - Tristin Watson\Source.cpp(29,6): warning C4101: 'hour2': unreferenced local variable
+E:\repos\Project One - Tristin Watson\Project One - Tristin Watson\Source.cpp(50,26): warning C4101: 'e': unreferenced local variable
+E:\repos\Project One - Tristin Watson\Project One - Tristin Watson\Source.cpp(73,26): warning C4101: 'e': unreferenced local variable
+E:\repos\Project One - Tristin Watson\Project One - Tristin Watson\Source.cpp(95,26): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Project One - Tristin Watson.vcxproj -> E:\repos\Project One - Tristin Watson\x64\Debug\Project One - Tristin Watson.exe
